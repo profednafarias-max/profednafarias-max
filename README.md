@@ -22,7 +22,6 @@ Estou sempre em busca de novas formas de ensinar e aprender. Se você é meu alu
 > *"A educação é o que sobrevive depois que tudo o que foi aprendido foi esquecido."*
 
 ---
-
 🛠️ Linguagens e Desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -43,5 +42,3 @@ Estou sempre em busca de novas formas de ensinar e aprender. Se você é meu alu
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
 ![LucidChart](https://img.shields.io/badge/LucidChart-FF6E00?style=flat&logo=lucid&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-![Estudante](https://img.shields.io/badge/Estudante-AZUL?style=flat)
