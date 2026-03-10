@@ -26,4 +26,16 @@ Estou sempre em busca de novas formas de ensinar e aprender. Se você é meu alu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Portugol Studio](https://img.shields.io/badge/Portugol%20Studio-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![LucidChart](https://img.shields.io/badge/LucidChart-FF6E00?style=for-the-badge&logo=lucid&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 > *"A educação é o que sobrevive depois que tudo o que foi aprendido foi esquecido."*
