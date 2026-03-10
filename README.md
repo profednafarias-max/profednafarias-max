@@ -44,4 +44,4 @@ Estou sempre em busca de novas formas de ensinar e aprender. Se você é meu alu
 ![LucidChart](https://img.shields.io/badge/LucidChart-FF6E00?style=flat&logo=lucid&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-
+![Estudante](https://img.shields.io/badge/Estudante-AZUL?style=flat)
