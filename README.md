@@ -1,4 +1,4 @@
-# Olá, boas-vindas ao meu espaço! 👋
+# Olá, sejam bem-vindos!!!
 
 Sou professora na área de tecnologia com mais de duas décadas de jornada no ensino técnico. Acredito que a programação é uma ferramenta poderosa para transformar realidades e que ninguém aprende sozinho.
 
