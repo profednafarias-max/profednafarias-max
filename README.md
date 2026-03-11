@@ -42,4 +42,4 @@ Estou sempre em busca de novas formas de ensinar e aprender. Se você é meu alu
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
 ![LucidChart](https://img.shields.io/badge/LucidChart-FF6E00?style=flat&logo=lucid&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)
+
